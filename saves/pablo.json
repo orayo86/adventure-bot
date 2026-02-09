@@ -1,0 +1,28 @@
+{
+  "chapter": 2,
+  "players": [
+    {
+      "nama": "pablo",
+      "role": "Warrior",
+      "level": 2,
+      "exp": 50,
+      "exp_max": 120,
+      "hp": 103,
+      "hp_max": 115,
+      "mp": 50,
+      "mp_max": 60,
+      "attack": 13,
+      "defense": 7,
+      "magic": 10,
+      "agility": 8,
+      "gold": 220,
+      "skills": [
+        "SLASH"
+      ],
+      "potions": {
+        "Health Potion": 1
+      },
+      "bombs": {}
+    }
+  ]
+}

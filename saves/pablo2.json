@@ -1,0 +1,49 @@
+{
+  "chapter": 3,
+  "players": [
+    {
+      "nama": "pablo",
+      "role": "Warrior",
+      "level": 3,
+      "exp": 72,
+      "exp_max": 144,
+      "hp": 117,
+      "hp_max": 130,
+      "mp": 20,
+      "mp_max": 70,
+      "attack": 16,
+      "defense": 9,
+      "magic": 12,
+      "agility": 9,
+      "gold": 460,
+      "skills": [
+        "SLASH"
+      ],
+      "potions": {},
+      "bombs": {}
+    },
+    {
+      "nama": "Santoso",
+      "role": "Archer",
+      "level": 3,
+      "exp": 72,
+      "exp_max": 100,
+      "hp": 66,
+      "hp_max": 90,
+      "mp": 15,
+      "mp_max": 60,
+      "attack": 9,
+      "defense": 4,
+      "magic": 7,
+      "agility": 9,
+      "gold": 90,
+      "skills": [
+        "SLASH",
+        "ARROW_SHOT",
+        "MULTI_SHOT"
+      ],
+      "potions": {},
+      "bombs": {}
+    }
+  ]
+}
